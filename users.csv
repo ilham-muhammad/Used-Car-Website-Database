@@ -1,0 +1,701 @@
+user_id,first_name,last_name,phone,address,city_id
+1,Marsito,Zulaika,+62-400-348-9200,Gang Jend. Sudirman No. 765,3172
+2,Jumari,Najmudin,085 300 9537,Jl. Erlangga No. 6,3471
+3,Hesti,Nuraini,+62-70-907-9150,Jalan Sukajadi No. 4,6471
+4,Cawuk,Handayani,(039) 927-2694,Jl. Cihampelas No. 6,3174
+5,Zizi,Kuswandari,+62 (0565) 511-0317,Jl. Merdeka No. 7,3172
+6,Laksana,Waskita,+62 (0979) 730-6930,Jl. Dr. Djunjunan No. 9,3175
+7,Kasim,Budiman,+62-0250-768-8031,Gg. Rajiman No. 043,3173
+8,Dimaz,Simbolon,+62-0831-951-8141,Jl. Bangka Raya No. 71,3471
+9,Labuh,Oktaviani,+62-0078-146-1976,Jl. Asia Afrika No. 28,3273
+10,Farah,Uwais,+62 (0143) 832-7314,Gang Rumah Sakit No. 30,3173
+11,Clara,Nugroho,+62 (0510) 543-1851,Gang Pasir Koja No. 755,3175
+12,Prayoga,Sihombing,+62-23-369-9288,Gang KH Amin Jasuta No. 792,3175
+13,Puji,Kurniawan,+62 (0721) 279 2315,Jalan Monginsidi No. 345,3173
+14,Dono,Maheswara,+62 (617) 718-4870,Gang Ciwastra No. 40,3175
+15,Cemani,Prabowo,(0923) 075 3604,Jl. Ahmad Yani No. 81,3573
+16,Citra,Prasasta,0889363317,Jalan Ronggowarsito No. 4,6471
+17,Lasmono,Hardiansyah,+62-85-069-7943,Jalan Gardujati No. 060,3578
+18,Nalar,Natsir,+62 (0919) 575 6516,Gang Cikutra Timur No. 466,3573
+19,Halim,Lailasari,+62-384-718-3137,Jl. Sukajadi No. 00,3471
+20,Karsa,Rahmawati,+62 (077) 104-5083,Gg. Monginsidi No. 1,3578
+21,Zahra,Padmasari,+62 (66) 364-4252,Jalan W.R. Supratman No. 0,3573
+22,Qori,Wibowo,(0965) 674 2922,Jl. Ahmad Dahlan No. 3,3173
+23,Ian,Fujiati,+62-321-812-2122,Jalan Ciwastra No. 809,6471
+24,Gamani,Winarsih,+62 (15) 942 6485,Jl. M.H Thamrin No. 70,1375
+25,Aditya,Kuswandari,+62 (0109) 737 3835,Jl. Pasteur No. 2,3175
+26,Kunthara,Kuswandari,080 650 6881,Gang Jayawijaya No. 3,3578
+27,Jaiman,Simbolon,+62 (0558) 539-8821,Gang Veteran No. 8,6471
+28,Ira,Haryanto,+62-0884-655-2549,Jl. H.J Maemunah No. 1,6472
+29,Bakiadi,Waluyo,+62-0340-216-2494,Gang Pacuan Kuda No. 291,6472
+30,Bahuwarna,Dongoran,+62 (42) 509-7504,Gang Pasir Koja No. 416,6472
+31,Eman,Nurdiyanti,(072) 195-6294,Jl. Indragiri No. 0,7371
+32,Restu,Sihotang,+62 (050) 635 0890,Gang Raya Ujungberung No. 515,1371
+33,Tomi,Irawan,+62 (0944) 255 1397,Jalan Laswi No. 07,3171
+34,Paiman,Haryanti,+62 (0294) 685 0781,Jalan Kendalsari No. 08,3578
+35,Rika,Dongoran,+62-23-299-2091,Gang Ciumbuleuit No. 749,5171
+36,Agnes,Setiawan,(0734) 444 7502,Gg. Bangka Raya No. 69,5171
+37,Emil,Maulana,+62 (386) 375-8622,Gang Dr. Djunjunan No. 3,3171
+38,Keisha,Nasyiah,+62-31-854-2760,Jalan Pelajar Pejuang No. 876,5171
+39,Harto,Namaga,082 920 1690,Jalan Lembong No. 56,5171
+40,Okto,Iswahyudi,+62-0955-650-4362,Jalan S. Parman No. 424,3578
+41,Sidiq,Handayani,+62 (298) 655 1238,Jalan Jend. Sudirman No. 122,3174
+42,Mitra,Pradana,083 049 6396,Jalan Indragiri No. 7,7371
+43,Alambana,Nuraini,+62 (73) 857 3940,Jalan Tebet Barat Dalam No. 3,3578
+44,Balangga,Nainggolan,+62 (0042) 696 7143,Gang Gegerkalong Hilir No. 63,3173
+45,Gading,Novitasari,+62 (77) 105 9587,Gang Rajawali Timur No. 4,3573
+46,Makara,Simanjuntak,+62-03-439-7221,Jalan Wonoayu No. 61,7371
+47,Garda,Sudiati,+62 (0952) 576 8347,Jalan Tubagus Ismail No. 6,7371
+48,Aurora,Padmasari,(0532) 310-4395,Jl. Cikapayang No. 22,3273
+49,Danu,Purwanti,+62-986-399-4515,Gang Bangka Raya No. 769,1375
+50,Maman,Wijaya,+62-0967-254-0878,Gg. Cikutra Timur No. 124,3173
+51,Kemal,Hardiansyah,+62 (0788) 880 6386,Gg. Antapani Lama No. 714,1375
+52,Yoga,Wijayanti,+62 (0991) 110 2164,Jalan Kapten Muslihat No. 572,3578
+53,Daru,Dabukke,+62 (076) 733-5821,Gang Pelajar Pejuang No. 525,6471
+54,Mulya,Wulandari,(070) 363-3264,Gg. Bangka Raya No. 6,3174
+55,Ganep,Sinaga,(052) 580 7873,Gang Monginsidi No. 574,5171
+56,Ikhsan,Wahyudin,(093) 960 5381,Jl. Gardujati No. 170,3573
+57,Jaka,Hidayanto,+62 (902) 987-0698,Gang Dipatiukur No. 546,6471
+58,Murti,Rajasa,+62-052-957-1529,Gg. Peta No. 9,1371
+59,Wage,Tampubolon,+62-69-969-4313,Gg. Tebet Barat Dalam No. 4,7371
+60,Malik,Sihombing,(009) 604 9131,Jl. Ahmad Dahlan No. 336,3471
+61,Dina,Putra,(029) 969 6107,Gang Rawamangun No. 32,3578
+62,Vero,Palastri,+62-295-068-1988,Gang Siliwangi No. 90,5171
+63,Artawan,Hastuti,+62-42-611-8984,Jl. Gegerkalong Hilir No. 160,6471
+64,Zahra,Lestari,+62-866-095-9362,Jl. Veteran No. 2,6472
+65,Iriana,Sihombing,+62 (374) 120-6675,Gang M.H Thamrin No. 95,3173
+66,Daryani,Wijaya,+62 (623) 309 8206,Gang Rajiman No. 4,3273
+67,Warsita,Hardiansyah,+62 (0322) 959-8471,Jalan H.J Maemunah No. 101,7371
+68,Garda,Mustofa,+62-055-649-7635,Gg. Wonoayu No. 74,3171
+69,Harimurti,Saptono,+62 (018) 389 5232,Gang Moch. Toha No. 47,1371
+70,Maria,Rahimah,(099) 947 1102,Gang Suniaraja No. 480,3173
+71,Ikin,Halim,+62 (50) 402 1042,Jalan BKR No. 640,6471
+72,Eva,Napitupulu,(0300) 496-1612,Gg. Raya Setiabudhi No. 0,1375
+73,Rina,Wulandari,+62-03-585-6384,Jl. Otto Iskandardinata No. 903,3471
+74,Abyasa,Farida,(097) 036 7526,Gang Pasirkoja No. 668,3175
+75,Kunthara,Natsir,+62-981-773-4953,Jalan Veteran No. 1,3573
+76,Lalita,Firgantoro,+62 (0443) 242-9337,Gang Sadang Serang No. 4,3174
+77,Teguh,Rahayu,(055) 583 3315,Gg. M.H Thamrin No. 8,3578
+78,Dinda,Wastuti,+62 (720) 362-6070,Gang Jakarta No. 18,3273
+79,Bakidin,Palastri,(058) 330 2847,Gg. Wonoayu No. 6,3578
+80,Aurora,Gunarto,(0447) 357 2227,Gang Yos Sudarso No. 393,1371
+81,Hilda,Sihotang,087 143 6243,Gg. Siliwangi No. 9,3175
+82,Ibrani,Habibi,+62-060-084-9578,Jalan Surapati No. 735,3174
+83,Makuta,Laksita,+62 (0106) 273 1686,Jl. Ahmad Dahlan No. 38,3471
+84,Agnes,Rajasa,+62 (56) 423 4331,Jalan Pasir Koja No. 6,6472
+85,Anita,Namaga,(080) 408 4230,Jl. Sukajadi No. 88,3173
+86,Embuh,Simbolon,(070) 228 4530,Gang Jamika No. 674,3173
+87,Pangestu,Tamba,+62 (781) 777 5139,Jl. Asia Afrika No. 28,3173
+88,Amalia,Farida,(078) 589-6431,Gang Cihampelas No. 8,6472
+89,Ozy,Natsir,+62-883-817-2427,Gang Dr. Djunjunan No. 866,3173
+90,Reza,Hakim,+62 (0960) 916-8974,Jalan Joyoboyo No. 8,6472
+91,Bakiadi,Tampubolon,(0504) 855 0864,Gg. Antapani Lama No. 483,1371
+92,Wirda,Sihombing,+62 (530) 630 4016,Gg. Jayawijaya No. 42,6471
+93,Kiandra,Winarno,+62 (0512) 720 3709,Gang Rawamangun No. 798,5171
+94,Makara,Hasanah,(025) 131 9846,Gg. Ahmad Dahlan No. 83,3573
+95,Cayadi,Saputra,+62-430-904-5139,Gg. Rajiman No. 23,7371
+96,Enteng,Januar,+62 (88) 646 6807,Jalan Dipatiukur No. 424,6472
+97,Makuta,Palastri,083 820 0949,Jl. Suryakencana No. 0,7371
+98,Laswi,Dongoran,+62 (0358) 216 5098,Jalan Kiaracondong No. 491,5171
+99,Darimin,Hidayanto,+62 (027) 220-7888,Jl. Jend. Sudirman No. 6,6472
+100,Kunthara,Hutasoit,+62 (33) 737 8482,Gang Rawamangun No. 7,3573
+101,Samsul,Haryanti,+62-915-261-9490,Gg. Joyoboyo No. 4,6472
+102,Bahuwarna,Anggraini,(031) 579-4345,Gg. Sukabumi No. 817,3175
+103,Kezia,Anggriawan,(0229) 781 1545,Gg. Moch. Ramdan No. 1,7371
+104,Hardi,Kusumo,+62-31-726-8841,Gg. Ahmad Dahlan No. 368,6472
+105,Galar,Sihombing,+62 (0243) 919 0263,Gang Monginsidi No. 648,3172
+106,Jayadi,Utami,+62-0108-494-6002,Jalan Cikutra Timur No. 830,5171
+107,Paramita,Anggraini,+62 (651) 972 6103,Jl. Pasirkoja No. 3,3173
+108,Puti,Wibowo,+62 (0135) 375-0241,Jl. Stasiun Wonokromo No. 23,3175
+109,Jayadi,Sirait,+62-0818-647-8308,Jl. Surapati No. 284,6472
+110,Artanto,Anggriawan,085 547 6637,Gang H.J Maemunah No. 216,7371
+111,Prakosa,Kusmawati,(0821) 251-9781,Jalan Astana Anyar No. 5,3578
+112,Jatmiko,Maryadi,080 881 6295,Jl. Dr. Djunjunan No. 1,7371
+113,Kawaca,Waluyo,+62 (0273) 279-4716,Gg. Cikutra Timur No. 78,1375
+114,Elon,Sitompul,+62 (0926) 317-2660,Gang Monginsidi No. 2,6471
+115,Tasnim,Sitorus,(0391) 149-6845,Jl. Laswi No. 46,1375
+116,Eka,Simanjuntak,+62 (0474) 195 7481,Gg. Jend. Sudirman No. 7,3573
+117,Ika,Saefullah,(062) 312-5532,Jalan Moch. Toha No. 537,3578
+118,Raditya,Purwanti,+62 (21) 499 2400,Jl. K.H. Wahid Hasyim No. 964,6472
+119,Amalia,Adriansyah,+62-0012-946-9972,Jalan Ir. H. Djuanda No. 26,3171
+120,Jessica,Dongoran,+62 (064) 693-1524,Gang Pelajar Pejuang No. 656,6471
+121,Edison,Siregar,+62 (40) 070 4804,Gang Gegerkalong Hilir No. 0,3172
+122,Dasa,Gunarto,+62-095-033-6176,Jl. Dipatiukur No. 3,6471
+123,Aslijan,Winarno,+62 (69) 788-0008,Gang Ciumbuleuit No. 480,6471
+124,Erik,Susanti,(0133) 503-8798,Jalan Kapten Muslihat No. 8,5171
+125,Okto,Pratiwi,(0156) 170 8345,Jalan Gedebage Selatan No. 235,3171
+126,Vero,Aryani,+62 (0943) 125-2046,Gang Moch. Ramdan No. 8,3175
+127,Ihsan,Siregar,+62-430-398-0748,Jl. Antapani Lama No. 545,1375
+128,Jefri,Rajasa,+62 (17) 517-2357,Jl. Asia Afrika No. 1,3273
+129,Kemal,Situmorang,(097) 980 3599,Jalan Sukajadi No. 76,3273
+130,Nardi,Tamba,+62 (34) 960 3150,Jl. Moch. Toha No. 469,6472
+131,Galak,Putra,(0002) 790-8048,Jalan Dipenogoro No. 29,6471
+132,Asirwanda,Hasanah,+62-0856-811-6025,Jalan K.H. Wahid Hasyim No. 274,3173
+133,Putri,Winarno,0888353989,Gg. Siliwangi No. 15,3578
+134,Baktiadi,Sihombing,+62-0692-948-1548,Gang Pasteur No. 13,5171
+135,Edison,Sitompul,+62-62-664-2724,Gg. Kutai No. 0,3578
+136,Gantar,Habibi,+62 (0986) 948 7613,Jl. Merdeka No. 9,3175
+137,Jefri,Rahimah,(0191) 902-8855,Gg. Ahmad Dahlan No. 410,3471
+138,Suci,Nuraini,(086) 879 7461,Gang Setiabudhi No. 171,3471
+139,Kusuma,Sitompul,(047) 029 4692,Gg. Antapani Lama No. 878,3175
+140,Amelia,Rajasa,+62 (0866) 428 7173,Gang Jend. A. Yani No. 8,3273
+141,Asmadi,Anggriawan,+62 (196) 551-4735,Jalan Pasirkoja No. 587,1375
+142,Harjasa,Ramadan,(025) 174 3652,Jalan Soekarno Hatta No. 96,3573
+143,Harsanto,Sirait,+62 (517) 433 9404,Jalan Stasiun Wonokromo No. 8,1375
+144,Harimurti,Pangestu,(0149) 414-1962,Gg. KH Amin Jasuta No. 3,6471
+145,Nurul,Santoso,+62-52-880-4020,Jalan Merdeka No. 01,6471
+146,Gaman,Pratiwi,+62 (281) 647 5395,Gg. Dipatiukur No. 76,3171
+147,Shania,Tampubolon,(0374) 478-0116,Gg. Cempaka No. 40,3273
+148,Titin,Dabukke,+62 (463) 534 2721,Jl. Siliwangi No. 94,3471
+149,Mustika,Situmorang,0803284491,Jl. Jend. Sudirman No. 65,3273
+150,Karna,Handayani,+62-046-327-7360,Jl. Suryakencana No. 330,3273
+151,Harimurti,Laksmiwati,+62 (099) 422 2002,Jl. Wonoayu No. 018,3573
+152,Lulut,Pertiwi,+62 (0617) 449-0898,Gang Ciumbuleuit No. 48,7371
+153,Kamal,Hakim,+62 (0872) 929 5767,Jl. Rajawali Timur No. 2,6472
+154,Panca,Yulianti,+62 (690) 049-1061,Jalan Gardujati No. 8,5171
+155,Jamal,Saputra,+62 (954) 076 2400,Jalan Raya Ujungberung No. 02,3171
+156,Septi,Megantara,+62-0829-619-3437,Jalan Jamika No. 40,3175
+157,Gada,Puspita,+62 (11) 378-8113,Gang Wonoayu No. 173,6472
+158,Pangeran,Pudjiastuti,+62 (034) 824 9453,Jl. M.T Haryono No. 23,3171
+159,Unggul,Safitri,+62 (985) 982 2276,Gang Peta No. 2,1371
+160,Adikara,Santoso,+62-202-960-7268,Jalan Bangka Raya No. 32,3273
+161,Galak,Sihotang,080 179 3675,Gg. Kiaracondong No. 377,5171
+162,Pranata,Januar,0842603455,Gg. Tubagus Ismail No. 8,5171
+163,Ilsa,Kusumo,+62 (0745) 455-2369,Gang Kapten Muslihat No. 1,6472
+164,Erik,Kusmawati,+62-286-297-8238,Gg. W.R. Supratman No. 9,3573
+165,Maya,Iswahyudi,+62 (026) 602 7831,Gang Rajawali Barat No. 04,3573
+166,Raden,Maryati,(078) 784-6220,Gg. Gegerkalong Hilir No. 797,7371
+167,Mitra,Pradipta,0892045204,Jalan Moch. Toha No. 150,3471
+168,Cahya,Wibowo,+62-712-324-8096,Jalan Siliwangi No. 313,3578
+169,Putu,Mustofa,089 328 7189,Gg. Moch. Toha No. 533,5171
+170,Prayogo,Mustofa,(008) 205 1279,Gang Surapati No. 0,3172
+171,Pangestu,Latupono,+62 (0964) 553-4881,Gang Monginsidi No. 1,5171
+172,Tirtayasa,Wahyuni,+62 (288) 573 7268,Gg. M.H Thamrin No. 4,3471
+173,Wage,Widodo,+62 (06) 593-9993,Gg. Suryakencana No. 9,1375
+174,Oman,Andriani,+62 (0045) 530 3072,Gg. Kebonjati No. 15,3172
+175,Eka,Yuniar,(0268) 998-1283,Jalan Medokan Ayu No. 5,3175
+176,Shania,Rahayu,+62 (0028) 994-5044,Gg. Monginsidi No. 26,6472
+177,Panji,Sudiati,(0727) 659-0643,Gg. Gardujati No. 98,5171
+178,Darijan,Saefullah,(0573) 643 2878,Gg. Rajiman No. 0,3174
+179,Mursinin,Yolanda,(0328) 620-4772,Gg. Antapani Lama No. 2,3174
+180,Maryadi,Setiawan,+62 (229) 161-1584,Jalan M.H Thamrin No. 308,3175
+181,Mariadi,Hardiansyah,+62-0345-919-1279,Jl. BKR No. 2,3171
+182,Rika,Farida,+62 (60) 990-0868,Jalan Kendalsari No. 737,3273
+183,Halim,Situmorang,+62-0263-903-6914,Gg. Wonoayu No. 56,1371
+184,Gandi,Yuniar,+62-0681-232-8928,Gg. Kapten Muslihat No. 865,3273
+185,Wirda,Marpaung,+62 (047) 415-0256,Gang K.H. Wahid Hasyim No. 307,3175
+186,Aisyah,Kurniawan,+62 (90) 793-6629,Gang Bangka Raya No. 235,3173
+187,Putri,Narpati,+62 (0010) 205 9579,Gang Astana Anyar No. 373,1375
+188,Hana,Siregar,083 734 7719,Gg. Monginsidi No. 67,3171
+189,Mahmud,Napitupulu,+62 (0776) 559-4705,Gang Cikutra Barat No. 9,3173
+190,Marsito,Samosir,+62-0745-792-0025,Jl. W.R. Supratman No. 65,6471
+191,Putri,Puspasari,+62 (07) 170-5128,Gg. Pasirkoja No. 2,3573
+192,Sakti,Siregar,+62-0502-598-8082,Jl. Moch. Ramdan No. 50,6471
+193,Hamzah,Riyanti,+62 (067) 907 0724,Jalan Cikapayang No. 141,3173
+194,Alika,Mustofa,084 663 7100,Gg. Pasteur No. 0,5171
+195,Nyoman,Laksita,0852741453,Gang Moch. Ramdan No. 955,3173
+196,Bahuraksa,Pradana,(050) 571 7743,Jalan Moch. Toha No. 6,3578
+197,Among,Mardhiyah,084 908 7928,Gg. Dipenogoro No. 838,3171
+198,Warta,Padmasari,(079) 737 9569,Gg. Suryakencana No. 87,6471
+199,Ella,Saragih,(0810) 533-1355,Jalan Veteran No. 6,1375
+200,Raina,Thamrin,+62 (11) 044 9949,Gang Jayawijaya No. 7,3172
+201,Novi,Mulyani,+62 (0453) 963 8592,Jalan Jakarta No. 606,3573
+202,Hardi,Nasyidah,+62 (065) 864 6966,Jalan Pasteur No. 262,6471
+203,Kurnia,Yuniar,+62-031-676-0259,Gg. M.T Haryono No. 130,3174
+204,Devi,Maheswara,+62 (0970) 006-8427,Jalan Bangka Raya No. 29,3171
+205,Raina,Prabowo,089 515 7264,Gg. Kapten Muslihat No. 87,5171
+206,Kusuma,Prasasta,0808823322,Gang Raya Setiabudhi No. 699,3175
+207,Hafshah,Prayoga,0813949205,Gg. H.J Maemunah No. 0,3578
+208,Zulfa,Ardianto,+62 (073) 438-4439,Gang Jakarta No. 87,3273
+209,Mutia,Prasasta,0808818576,Jl. M.T Haryono No. 054,6471
+210,Belinda,Nurdiyanti,+62-0460-230-9374,Jalan Setiabudhi No. 99,3173
+211,Garan,Suwarno,(0947) 045 0857,Jl. Jend. A. Yani No. 5,3471
+212,Nugraha,Hakim,(0362) 242 4909,Jl. Stasiun Wonokromo No. 43,1375
+213,Elisa,Padmasari,+62 (054) 779-3864,Jl. Erlangga No. 3,3171
+214,Paulin,Lailasari,+62 (51) 338-9311,Jalan Ciwastra No. 733,6472
+215,Kawaya,Thamrin,+62 (795) 319-9216,Jl. Waringin No. 20,3471
+216,Kacung,Riyanti,+62 (40) 901 1561,Jalan Cihampelas No. 2,5171
+217,Tasdik,Andriani,(0282) 392-8747,Jl. Dr. Djunjunan No. 0,3171
+218,Irfan,Novitasari,+62-634-261-2769,Jl. Kendalsari No. 7,3578
+219,Suci,Ardianto,082 389 4278,Gg. Cihampelas No. 264,1375
+220,Koko,Napitupulu,+62 (48) 547 8555,Jl. Joyoboyo No. 4,7371
+221,Jane,Napitupulu,+62-0700-926-3910,Jl. Astana Anyar No. 603,5171
+222,Ismail,Handayani,+62 (040) 319-9654,Gang H.J Maemunah No. 807,3171
+223,Darijan,Lazuardi,+62 (0077) 016 8847,Gang Jend. A. Yani No. 953,1371
+224,Rahman,Nasyidah,+62-072-974-1025,Gg. Raya Setiabudhi No. 4,3175
+225,Raisa,Hutagalung,+62-22-039-5955,Jalan Ir. H. Djuanda No. 92,6472
+226,Panji,Winarno,+62 (639) 976 1588,Gang Tubagus Ismail No. 0,3175
+227,Salwa,Hariyah,(023) 845 8341,Jalan Gedebage Selatan No. 723,3173
+228,Asman,Sinaga,+62-74-568-3877,Gg. Rumah Sakit No. 276,1371
+229,Hasta,Sihotang,+62 (029) 981-5006,Jalan Soekarno Hatta No. 05,3173
+230,Laswi,Zulaika,+62-781-193-3511,Gg. K.H. Wahid Hasyim No. 9,3173
+231,Kamidin,Hutagalung,080 909 9328,Jalan Kutisari Selatan No. 14,3175
+232,Dariati,Suwarno,+62-0346-083-8735,Jl. Gedebage Selatan No. 5,3173
+233,Heru,Widiastuti,(0669) 566 1131,Gang Jayawijaya No. 418,3471
+234,Wardaya,Simbolon,(070) 330-5261,Gang Moch. Toha No. 81,5171
+235,Purwanto,Puspasari,(098) 799 4200,Gg. Jayawijaya No. 25,6472
+236,Ganda,Simbolon,+62-531-320-4769,Jl. Monginsidi No. 196,6471
+237,Cagak,Palastri,+62 (46) 453 9439,Jl. Rungkut Industri No. 37,3573
+238,Amalia,Ardianto,+62 (0628) 020-8490,Jalan Peta No. 0,3273
+239,Purwa,Situmorang,082 717 1135,Jl. Laswi No. 34,6472
+240,Malika,Wastuti,+62-009-432-1549,Gang Rumah Sakit No. 45,3174
+241,Danang,Maheswara,+62-0857-733-6064,Jalan Ciwastra No. 838,3578
+242,Maya,Purwanti,0847375514,Gang Tebet Barat Dalam No. 05,6471
+243,Alika,Simanjuntak,+62 (97) 678 8175,Jalan Raya Ujungberung No. 032,5171
+244,Emin,Prayoga,+62-086-753-0768,Jl. Kiaracondong No. 394,3471
+245,Jagaraga,Samosir,+62 (0181) 837-7860,Gang PHH. Mustofa No. 83,3578
+246,Tantri,Tamba,+62-028-728-8557,Gang Ir. H. Djuanda No. 02,3471
+247,Prabawa,Santoso,+62 (0838) 572-3494,Gg. Kebonjati No. 010,3578
+248,Galiono,Waluyo,+62-71-320-9750,Gang Moch. Toha No. 62,3174
+249,Halim,Kuswandari,(0372) 267 0250,Gang Gardujati No. 1,1371
+250,Najam,Hastuti,+62 (0962) 335 9962,Jalan KH Amin Jasuta No. 0,1371
+251,Nova,Maheswara,081 668 8064,Jl. Dr. Djunjunan No. 4,6472
+252,Prayoga,Putra,+62 (0756) 716 2334,Gg. Pasirkoja No. 467,5171
+253,Yahya,Laksita,+62 (758) 277 7299,Jl. Rungkut Industri No. 8,1375
+254,Mila,Mustofa,+62-501-518-8459,Jl. Suryakencana No. 4,3171
+255,Samsul,Hidayat,+62 (22) 344-3070,Gang Kutisari Selatan No. 70,6472
+256,Heru,Jailani,+62 (0476) 034 1864,Gang Raya Setiabudhi No. 6,3174
+257,Martani,Sitompul,(0643) 338-0693,Jalan Pasteur No. 20,1375
+258,Najwa,Agustina,(0003) 841-2616,Jalan Pelajar Pejuang No. 00,3573
+259,Gamani,Wahyudin,+62-05-426-1499,Jalan Cikapayang No. 9,3471
+260,Daliman,Mandasari,+62 (021) 012-4357,Gg. Dipatiukur No. 926,3273
+261,Panca,Mulyani,+62 (87) 378 0907,Jl. Laswi No. 301,6472
+262,Asmianto,Irawan,(047) 958 3856,Gang Cihampelas No. 5,3175
+263,Hani,Kurniawan,0852015043,Gang Otto Iskandardinata No. 432,1375
+264,Dipa,Widodo,+62-095-974-9046,Jalan Ronggowarsito No. 1,3172
+265,Darimin,Winarsih,+62-010-794-0820,Jl. Cikutra Timur No. 47,3174
+266,Kasim,Suartini,+62-0929-624-4570,Jl. Yos Sudarso No. 7,6471
+267,Teddy,Rajata,087 123 2480,Gang Laswi No. 6,3471
+268,Raina,Narpati,(0081) 238-4573,Gang H.J Maemunah No. 805,6471
+269,Olivia,Tamba,+62 (29) 073 7448,Jalan Monginsidi No. 067,3175
+270,Okto,Maryadi,+62 (0107) 143 2978,Jalan Veteran No. 44,3273
+271,Karsa,Aryani,+62-061-053-4583,Jl. Wonoayu No. 6,6472
+272,Ganep,Mangunsong,+62 (0835) 472-2159,Gg. Astana Anyar No. 60,3171
+273,Makara,Laksmiwati,(095) 074-0290,Jalan Jend. A. Yani No. 6,1375
+274,Siska,Safitri,+62 (0666) 368 4776,Jalan Cihampelas No. 738,3573
+275,Gada,Siregar,+62-0035-127-9145,Jalan Sadang Serang No. 8,3172
+276,Natalia,Oktaviani,+62-15-404-9270,Gang Sukajadi No. 7,3172
+277,Umay,Lazuardi,(096) 830-0890,Jalan M.T Haryono No. 082,1375
+278,Dwi,Uyainah,(033) 930 1149,Gg. S. Parman No. 331,3172
+279,Eko,Wulandari,+62 (0072) 120 7152,Gg. Jakarta No. 1,3578
+280,Tri,Natsir,+62 (302) 348 3833,Gang Soekarno Hatta No. 64,3471
+281,Anastasia,Haryanto,+62 (0254) 212-4202,Gg. Veteran No. 29,3175
+282,Nardi,Thamrin,0824980019,Gang Pasir Koja No. 2,3171
+283,Mulya,Damanik,+62 (0892) 106-9541,Gang Ronggowarsito No. 5,1371
+284,Utama,Hassanah,+62-89-500-2052,Jl. Rumah Sakit No. 39,3175
+285,Cengkir,Saefullah,+62 (637) 002 2747,Jalan Siliwangi No. 1,3173
+286,Lega,Widiastuti,+62-955-763-9953,Gg. Raya Ujungberung No. 3,3173
+287,Damar,Padmasari,+62-416-901-5188,Gg. Rumah Sakit No. 6,5171
+288,Erik,Kurniawan,+62 (063) 694 1291,Gg. Ciwastra No. 928,3171
+289,Ilsa,Dabukke,+62 (0205) 667 3895,Jalan Ir. H. Djuanda No. 21,3172
+290,Alambana,Iswahyudi,+62 (388) 645 1338,Jalan Rajiman No. 89,6471
+291,Adikara,Yulianti,+62-061-321-3206,Gg. Rajawali Timur No. 844,5171
+292,Atmaja,Dongoran,+62 (0720) 824 8584,Jl. Sadang Serang No. 91,3171
+293,Gantar,Damanik,+62-473-625-1138,Gang Rawamangun No. 4,3173
+294,Anom,Hakim,+62 (053) 846 6389,Gg. Pasirkoja No. 8,3471
+295,Asmadi,Utama,+62-099-088-1234,Gg. Siliwangi No. 79,7371
+296,Jagapati,Ramadan,+62 (571) 229-2386,Jl. Pasir Koja No. 1,3273
+297,Cawisadi,Hastuti,+62 (48) 117-9926,Gang Soekarno Hatta No. 0,3273
+298,Raharja,Waluyo,+62-086-011-1354,Jl. Tubagus Ismail No. 219,3171
+299,Martana,Anggriawan,+62-25-476-4766,Jalan Ciwastra No. 19,3172
+300,Tiara,Najmudin,+62 (0968) 471-5497,Gang Ir. H. Djuanda No. 975,3173
+301,Nugraha,Tamba,+62 (067) 535-5347,Jl. Pasteur No. 651,3174
+302,Warta,Lazuardi,(017) 679-9198,Jl. BKR No. 2,6471
+303,Vera,Pertiwi,+62 (048) 587 5157,Jl. Sukabumi No. 29,1371
+304,Heryanto,Wibowo,+62-059-946-2824,Jalan Bangka Raya No. 3,3471
+305,Eman,Mulyani,+62 (363) 498 4108,Gang Wonoayu No. 8,3175
+306,Laras,Rahayu,+62-048-484-3368,Jalan Veteran No. 914,3273
+307,Kambali,Uwais,+62 (0366) 975-3494,Jalan Cempaka No. 767,3173
+308,Pandu,Laksmiwati,+62 (054) 566 1022,Jl. Waringin No. 023,1375
+309,Ghaliyati,Aryani,081 697 1411,Jalan Sukabumi No. 4,3174
+310,Tami,Maryadi,+62 (985) 382 1669,Gang Tebet Barat Dalam No. 475,1371
+311,Koko,Permata,+62-60-951-4597,Gg. Raya Setiabudhi No. 221,3171
+312,Oni,Lazuardi,+62 (89) 837-7582,Gang HOS. Cokroaminoto No. 3,3171
+313,Panca,Manullang,+62 (088) 982 0108,Gang Astana Anyar No. 795,7371
+314,Legawa,Iswahyudi,+62 (061) 628-3072,Gg. Jamika No. 2,3578
+315,Niyaga,Handayani,+62 (916) 569 6786,Gg. Indragiri No. 9,1371
+316,Aslijan,Waluyo,(0846) 992 4907,Jalan Raya Setiabudhi No. 29,1371
+317,Bakijan,Sihotang,086 547 1164,Gang W.R. Supratman No. 3,3175
+318,Raden,Sitompul,+62 (19) 830-2373,Jl. Sadang Serang No. 9,1375
+319,Jane,Natsir,+62 (98) 673-2193,Jl. Siliwangi No. 139,3173
+320,Arta,Saputra,087 122 7090,Gg. Pasir Koja No. 1,3173
+321,Gilang,Najmudin,(0688) 529 7111,Gg. Kutisari Selatan No. 51,5171
+322,Zalindra,Suwarno,+62-541-711-3777,Jalan Indragiri No. 833,3578
+323,Marwata,Habibi,+62 (45) 252 3723,Jalan Moch. Toha No. 2,3174
+324,Luthfi,Widiastuti,089 467 1228,Gang Ciumbuleuit No. 901,6472
+325,Paulin,Simbolon,+62-39-059-6768,Jl. Pacuan Kuda No. 3,3578
+326,Ganep,Habibi,+62 (066) 902 5678,Jl. HOS. Cokroaminoto No. 95,3172
+327,Imam,Santoso,083 868 3412,Gang Rajiman No. 857,5171
+328,Asmianto,Rajasa,+62 (0069) 566 8877,Gang Jamika No. 6,3174
+329,Jaya,Kusmawati,(0626) 358-7656,Jalan Pasirkoja No. 898,3578
+330,Lidya,Suryatmi,+62 (683) 030 3106,Gg. Surapati No. 295,1375
+331,Agus,Saragih,+62-58-833-7431,Gg. Jakarta No. 480,3273
+332,Paiman,Zulaika,+62-22-068-1800,Jl. Raya Ujungberung No. 6,3578
+333,Bakda,Firmansyah,+62 (131) 754-5704,Jalan Suryakencana No. 7,3174
+334,Lili,Mulyani,+62 (046) 754 9645,Jalan Jayawijaya No. 473,7371
+335,Darimin,Mangunsong,+62-261-039-0193,Jalan Stasiun Wonokromo No. 135,3173
+336,Karja,Aryani,+62-63-231-5841,Gg. Rawamangun No. 2,6471
+337,Agnes,Nurdiyanti,+62 (008) 093-4402,Jalan Ahmad Dahlan No. 601,5171
+338,Purwadi,Saptono,+62 (0154) 150-2418,Jl. Sukabumi No. 804,3175
+339,Kusuma,Kuswoyo,+62 (19) 712-5919,Jl. Indragiri No. 992,1375
+340,Latif,Mansur,(078) 048-1321,Jl. Cikutra Barat No. 13,5171
+341,Mahfud,Namaga,+62-21-702-4077,Gg. Pacuan Kuda No. 0,6472
+342,Kurnia,Laksita,+62-072-372-9975,Gg. Rajawali Timur No. 7,6471
+343,Kania,Nugroho,+62 (0330) 920 6433,Jalan Rajawali Barat No. 088,7371
+344,Dartono,Farida,+62 (023) 733-8188,Gang Sentot Alibasa No. 95,6471
+345,Eka,Utami,(0616) 910-5244,Jl. Kendalsari No. 57,1371
+346,Mutia,Utama,+62-10-706-1952,Gang Tebet Barat Dalam No. 854,1375
+347,Galur,Puspasari,+62 (612) 451-2632,Gang Moch. Toha No. 274,1375
+348,Raisa,Adriansyah,+62 (0429) 973-6139,Gang Kutisari Selatan No. 9,6472
+349,Marsito,Pudjiastuti,+62-056-066-0012,Jl. Kebonjati No. 452,3173
+350,Ian,Budiyanto,+62-635-147-2823,Gang Raya Ujungberung No. 987,3173
+351,Cawisadi,Mulyani,+62 (05) 879 2273,Jalan Jakarta No. 1,3174
+352,Chelsea,Samosir,+62 (264) 209 4199,Jalan M.T Haryono No. 79,3175
+353,Aurora,Damanik,+62 (0023) 984-8585,Gg. Rumah Sakit No. 09,3573
+354,Martaka,Hastuti,+62 (038) 263-0826,Jl. Dr. Djunjunan No. 1,1375
+355,Lulut,Safitri,(020) 900 5085,Gang Jayawijaya No. 202,1375
+356,Karimah,Budiyanto,(0556) 629 0656,Gg. Moch. Toha No. 799,6472
+357,Shania,Nainggolan,+62 (056) 729 8190,Gang Cikutra Timur No. 7,6472
+358,Jagapati,Laksita,+62-509-547-4421,Jalan Kebonjati No. 9,3174
+359,Laras,Najmudin,+62 (027) 561 0660,Jl. Dipatiukur No. 48,5171
+360,Damar,Padmasari,+62-50-886-3455,Gang Jend. Sudirman No. 3,3273
+361,Ade,Ardianto,+62-51-333-9734,Gang M.H Thamrin No. 93,7371
+362,Adika,Siregar,+62-58-067-8089,Gg. Jend. A. Yani No. 211,1371
+363,Laksana,Sihombing,+62 (008) 492 5978,Jalan Ahmad Yani No. 7,3174
+364,Mahdi,Wacana,+62 (0404) 926-4783,Gg. Gegerkalong Hilir No. 56,1375
+365,Hardi,Mandala,+62 (099) 935-7479,Jalan Kapten Muslihat No. 9,7371
+366,Maimunah,Agustina,088 366 3143,Gg. Stasiun Wonokromo No. 4,7371
+367,Endra,Mulyani,+62-0523-414-2453,Jl. Merdeka No. 414,3172
+368,Pardi,Wibisono,(078) 707 8275,Jalan PHH. Mustofa No. 35,6472
+369,Emin,Najmudin,(0139) 423 5653,Gg. Tebet Barat Dalam No. 1,3174
+370,Martaka,Hidayat,+62 (0746) 430 8702,Jl. Wonoayu No. 794,3172
+371,Prima,Fujiati,(0287) 775 9393,Jl. Waringin No. 576,3172
+372,Rahayu,Safitri,+62 (40) 259 8399,Jalan Soekarno Hatta No. 4,3273
+373,Dono,Saputra,+62-0059-451-6837,Gang Medokan Ayu No. 9,1375
+374,Kamal,Zulaika,(0914) 248-9116,Jl. Ciumbuleuit No. 903,3578
+375,Virman,Maryadi,+62 (069) 863-9643,Jalan Jayawijaya No. 661,3573
+376,Devi,Tarihoran,+62 (328) 342 8343,Gang Kebonjati No. 13,5171
+377,Suci,Haryanti,+62 (0607) 642-1997,Jalan BKR No. 085,3173
+378,Ajiono,Kurniawan,+62 (08) 845-8486,Gg. Wonoayu No. 3,3174
+379,Bakianto,Wijayanti,(050) 192-0230,Jalan Dr. Djunjunan No. 883,3578
+380,Kamal,Kusumo,+62 (008) 235-7391,Jalan Cihampelas No. 81,3471
+381,Cawisadi,Lazuardi,+62 (085) 115 3544,Gang KH Amin Jasuta No. 712,5171
+382,Melinda,Simanjuntak,(0974) 076 1162,Gg. Kutisari Selatan No. 5,3273
+383,Ina,Pradana,+62 (0965) 968 9987,Jl. Bangka Raya No. 87,6472
+384,Prasetya,Budiyanto,+62-123-723-7779,Jalan Suniaraja No. 647,3174
+385,Margana,Prasetyo,+62 (091) 364 3608,Jalan Wonoayu No. 20,3471
+386,Sari,Sudiati,+62 (0115) 698-9340,Gg. Kutisari Selatan No. 165,3273
+387,Hairyanto,Widodo,(0952) 770-7576,Jl. Ahmad Dahlan No. 2,3471
+388,Ivan,Setiawan,(056) 274 7977,Gg. Pelajar Pejuang No. 35,3573
+389,Mujur,Saptono,+62 (89) 858-3847,Gg. Yos Sudarso No. 155,3174
+390,Kiandra,Pratiwi,(0273) 883-7352,Gang Jayawijaya No. 2,3471
+391,Faizah,Nugroho,+62 (0065) 177-0185,Gang Rungkut Industri No. 0,3174
+392,Prayitna,Usada,+62 (062) 759-2251,Jl. Pasteur No. 508,3172
+393,Darimin,Hariyah,+62 (076) 094-1133,Jl. Kendalsari No. 345,1371
+394,Yuni,Hariyah,0836150553,Gg. Dipenogoro No. 6,3174
+395,Darman,Sihombing,(0866) 284 1165,Jalan Kendalsari No. 01,3471
+396,Sarah,Maheswara,+62 (0140) 835-6518,Jl. Kutisari Selatan No. 434,3171
+397,Paulin,Zulaika,+62-60-505-5608,Gg. Asia Afrika No. 137,3273
+398,Hartaka,Novitasari,081 512 5356,Jl. Bangka Raya No. 507,5171
+399,Mutia,Astuti,+62 (424) 359 8611,Jl. Joyoboyo No. 2,3471
+400,Gantar,Anggraini,+62 (014) 282 3864,Gg. Rajawali Timur No. 160,3175
+401,Cengkir,Siregar,+62 (055) 035-5164,Jalan Jamika No. 520,5171
+402,Ismail,Kuswoyo,+62-14-950-9952,Jalan Monginsidi No. 0,6472
+403,Virman,Zulkarnain,+62 (0207) 581 8873,Jl. Waringin No. 324,3578
+404,Ella,Latupono,+62 (463) 551-6430,Gang Kendalsari No. 96,1371
+405,Galar,Tampubolon,(0532) 042-0130,Jalan Jayawijaya No. 0,3573
+406,Jaga,Kurniawan,+62-0991-283-8694,Jalan Moch. Toha No. 130,3174
+407,Zamira,Fujiati,087 544 7358,Gang Cempaka No. 743,3471
+408,Kurnia,Mustofa,0869072451,Jalan Ronggowarsito No. 15,3175
+409,Satya,Nurdiyanti,+62-320-413-5914,Gg. Ahmad Yani No. 15,3175
+410,Lukita,Situmorang,+62 (0303) 902-2299,Jl. Ciumbuleuit No. 786,3171
+411,Hamzah,Fujiati,082 175 3129,Gang Cihampelas No. 3,6472
+412,Yessi,Napitupulu,+62 (40) 719-3563,Gang Rawamangun No. 7,7371
+413,Olga,Winarno,+62 (37) 147 0087,Jalan Gedebage Selatan No. 3,1375
+414,Galiono,Simbolon,(0119) 505 5152,Gg. Ahmad Dahlan No. 28,3174
+415,Wahyu,Hasanah,+62 (088) 310-4852,Jl. Suryakencana No. 8,6471
+416,Anastasia,Hutapea,(020) 588 2960,Gang Dr. Djunjunan No. 57,6472
+417,Hani,Anggriawan,(0768) 896-6778,Gg. Abdul Muis No. 2,3172
+418,Kacung,Hariyah,+62 (0289) 481 0185,Jalan Sadang Serang No. 9,6471
+419,Lantar,Tampubolon,(0727) 538 0442,Gg. Raya Ujungberung No. 835,6472
+420,Sabar,Uwais,+62 (40) 271-3425,Gang Merdeka No. 8,3172
+421,Mustofa,Nasyidah,(011) 509 4557,Gg. Cikutra Barat No. 842,3578
+422,Padmi,Nasyidah,+62-0293-174-2728,Jl. Wonoayu No. 5,3273
+423,Irma,Padmasari,(0050) 902-8919,Gg. Ahmad Dahlan No. 380,3175
+424,Damu,Yuniar,+62 (88) 814-6262,Jalan Sukabumi No. 1,6472
+425,Opung,Astuti,+62-50-050-7481,Gang Dipatiukur No. 19,1371
+426,Mahdi,Sihombing,+62 (51) 297-4401,Gg. Dr. Djunjunan No. 6,3172
+427,Malika,Uwais,+62 (005) 741-8431,Gang Otto Iskandardinata No. 57,3172
+428,Darimin,Usada,0860967180,Gg. S. Parman No. 02,5171
+429,Karimah,Gunawan,+62 (440) 568-1600,Jl. Peta No. 2,6472
+430,Mahfud,Wijayanti,087 414 9324,Gg. Otto Iskandardinata No. 33,3175
+431,Mulyanto,Prayoga,(0781) 183 7828,Jl. Sadang Serang No. 86,3578
+432,Okto,Siregar,(0039) 599-2194,Gang BKR No. 436,7371
+433,Unjani,Situmorang,+62 (74) 201 2880,Jl. Rajawali Timur No. 435,5171
+434,Oliva,Rahayu,+62 (0189) 357 6275,Jalan Suniaraja No. 73,3471
+435,Zulaikha,Usamah,+62 (44) 122 2054,Gg. Sadang Serang No. 145,6471
+436,Intan,Saputra,+62-0856-683-5654,Gg. M.H Thamrin No. 3,5171
+437,Yusuf,Rahayu,+62-041-292-9716,Gg. Sadang Serang No. 5,1375
+438,Emas,Hardiansyah,+62-0291-888-0028,Jalan Monginsidi No. 91,3174
+439,Kasim,Suryatmi,088 025 6059,Jl. Asia Afrika No. 804,7371
+440,Salman,Rahayu,+62 (220) 891 4890,Jalan Ahmad Yani No. 02,6471
+441,Laswi,Gunawan,+62 (038) 005-4209,Gang Sentot Alibasa No. 2,3175
+442,Bancar,Budiyanto,(005) 139 7494,Gg. Ir. H. Djuanda No. 4,3171
+443,Rahmat,Astuti,080 508 5913,Jalan Dipenogoro No. 65,7371
+444,Lanang,Pradana,+62 (26) 567-2005,Gg. Moch. Toha No. 599,1371
+445,Kani,Hartati,+62 (62) 320-1069,Jalan Rumah Sakit No. 108,6471
+446,Purwa,Tampubolon,+62 (893) 410-5723,Gg. H.J Maemunah No. 66,6471
+447,Puput,Prastuti,+62 (96) 317 8131,Gg. Waringin No. 7,5171
+448,Raisa,Suwarno,(059) 289-0133,Jl. Sukajadi No. 94,1375
+449,Putri,Suartini,+62 (0689) 165-3814,Gang PHH. Mustofa No. 2,3172
+450,Tirtayasa,Firmansyah,+62 (0931) 934-6143,Gg. Sukajadi No. 339,7371
+451,Ibrani,Sihotang,+62 (110) 736-8105,Gg. Tebet Barat Dalam No. 762,3175
+452,Lanang,Farida,0805125861,Jl. Gegerkalong Hilir No. 933,3578
+453,Jaya,Prabowo,+62-440-252-1436,Jalan M.H Thamrin No. 2,7371
+454,Galuh,Pertiwi,+62 (089) 839-8706,Jl. Raya Setiabudhi No. 73,1371
+455,Saiful,Tamba,+62 (286) 045-0269,Jalan Laswi No. 20,3175
+456,Nova,Wasita,+62 (578) 830-1782,Gg. Rajawali Timur No. 4,3171
+457,Nabila,Hidayanto,(067) 322 4011,Gang Siliwangi No. 91,1375
+458,Prayoga,Gunarto,+62-005-059-0928,Jl. Kebonjati No. 56,3273
+459,Chandra,Nugroho,+62 (0819) 689 1854,Gang Ronggowarsito No. 971,1375
+460,Heru,Santoso,+62 (111) 563 1439,Jalan Jamika No. 99,6471
+461,Lanjar,Yolanda,+62 (0582) 772-8050,Gang Antapani Lama No. 905,3175
+462,Aisyah,Ramadan,+62-038-150-4052,Gang Gardujati No. 6,6472
+463,Ganda,Haryanto,+62 (334) 849 9739,Gang Surapati No. 92,6472
+464,Uli,Rajasa,+62 (61) 433-9190,Jl. Pasir Koja No. 9,3273
+465,Jarwa,Prayoga,088 847 3965,Jalan Rungkut Industri No. 418,3471
+466,Kambali,Safitri,+62 (061) 688 5224,Gang Astana Anyar No. 54,3171
+467,Prayogo,Hutagalung,+62-61-832-0479,Jalan Wonoayu No. 2,3471
+468,Luthfi,Putra,+62 (09) 453 1479,Gg. Pelajar Pejuang No. 07,3273
+469,Candra,Susanti,+62 (0991) 710-1289,Gang H.J Maemunah No. 984,3578
+470,Rafi,Jailani,+62-0152-376-6264,Jl. Moch. Ramdan No. 69,5171
+471,Elma,Prakasa,+62 (80) 158 4851,Jalan Raya Setiabudhi No. 6,3573
+472,Wisnu,Widodo,(046) 864-5252,Jalan Cihampelas No. 949,3471
+473,Cager,Winarsih,+62 (0093) 355 1120,Jalan Sadang Serang No. 05,3171
+474,Cemplunk,Fujiati,(0771) 925 1491,Gg. Otto Iskandardinata No. 681,3172
+475,Gilda,Wasita,+62 (0791) 038 1910,Gang Asia Afrika No. 693,6472
+476,Wisnu,Irawan,+62-212-356-5185,Gang Sentot Alibasa No. 62,6471
+477,Chandra,Saptono,(026) 094-7864,Gg. Bangka Raya No. 2,3174
+478,Humaira,Sihombing,+62 (544) 695 2640,Gang Antapani Lama No. 8,6472
+479,Ophelia,Lestari,(033) 469 6047,Jl. Kapten Muslihat No. 639,7371
+480,Okta,Maulana,(0241) 250 9306,Gg. Veteran No. 98,5171
+481,Gandi,Tarihoran,086 827 8248,Jalan Otto Iskandardinata No. 2,6471
+482,Labuh,Wacana,(0306) 713 5847,Jalan Sentot Alibasa No. 5,3175
+483,Paramita,Yulianti,+62-0405-215-2339,Jl. Rajiman No. 10,1375
+484,Mulya,Habibi,(035) 003-1343,Gg. K.H. Wahid Hasyim No. 6,1375
+485,Uda,Halim,+62-152-083-5956,Jalan Merdeka No. 91,6472
+486,Prayoga,Sudiati,+62-13-413-9249,Gg. Stasiun Wonokromo No. 594,3578
+487,Cakrabuana,Prabowo,+62-759-025-8963,Gg. Suryakencana No. 252,3174
+488,Wardi,Zulaika,+62-796-037-2337,Gang Cihampelas No. 452,1371
+489,Damar,Ardianto,0887393808,Jalan Pasirkoja No. 3,6471
+490,Yahya,Prasetyo,+62 (146) 713-9728,Jalan Tubagus Ismail No. 0,1375
+491,Anom,Megantara,+62-47-240-9263,Gg. Indragiri No. 707,3273
+492,Hamima,Latupono,+62 (60) 251 4247,Jl. BKR No. 6,6472
+493,Sarah,Nashiruddin,+62 (210) 395-1573,Jalan Suryakencana No. 9,3171
+494,Violet,Pradipta,+62-093-217-5336,Gg. Kutisari Selatan No. 99,3172
+495,Indra,Widodo,0801589099,Gang KH Amin Jasuta No. 13,5171
+496,Adiarja,Kuswoyo,+62-48-237-3079,Gang Ronggowarsito No. 5,3273
+497,Zaenab,Marbun,(0467) 099-0222,Gg. Surapati No. 553,3172
+498,Lidya,Siregar,(069) 795-2129,Gang Pacuan Kuda No. 0,5171
+499,Elma,Nashiruddin,(0646) 634 9537,Gg. Pacuan Kuda No. 03,1375
+500,Zelaya,Farida,0814081923,Jl. M.H Thamrin No. 280,3171
+501,Naradi,Tamba,+62-009-461-8255,Gang Ir. H. Djuanda No. 568,7371
+502,Edi,Kusumo,(013) 041 0324,Jalan Dr. Djunjunan No. 26,7371
+503,Farhunnisa,Namaga,(0517) 367-8689,Gg. Cihampelas No. 90,1375
+504,Chandra,Ramadan,0868617614,Gg. Otto Iskandardinata No. 593,1371
+505,Winda,Siregar,+62 (062) 695 4563,Gang Soekarno Hatta No. 9,1371
+506,Cahyadi,Siregar,+62 (096) 415 6921,Gang Gegerkalong Hilir No. 3,1371
+507,Dipa,Sirait,086 312 5413,Jalan Ahmad Yani No. 640,3273
+508,Dian,Sinaga,+62 (014) 408-7057,Gg. Kebonjati No. 12,6471
+509,Zizi,Kusmawati,(0730) 191-3438,Jalan Peta No. 8,3172
+510,Dwi,Maryadi,(0552) 408-1224,Gg. Ronggowarsito No. 73,3174
+511,Zelda,Sitompul,+62 (0109) 271-1501,Gang Veteran No. 23,3578
+512,Gamblang,Rahimah,(0930) 367-0357,Jalan Dipatiukur No. 0,6471
+513,Putri,Haryanto,+62 (029) 583-5443,Gang Kutai No. 8,3171
+514,Damar,Lestari,+62 (0538) 841 5068,Jl. Ahmad Dahlan No. 233,3172
+515,Septi,Yulianti,+62-036-688-4998,Jl. Kapten Muslihat No. 790,6471
+516,Dacin,Hassanah,+62 (36) 675-5177,Jl. M.H Thamrin No. 458,1371
+517,Eva,Sihombing,+62 (0357) 463-8820,Jl. Bangka Raya No. 36,1371
+518,Gandi,Yolanda,(0365) 970-0733,Jalan M.T Haryono No. 4,1371
+519,Darman,Purnawati,+62-034-640-2776,Gang R.E Martadinata No. 14,3172
+520,Harsanto,Nashiruddin,+62-645-108-3364,Jalan Cikutra Timur No. 23,1371
+521,Raihan,Nainggolan,+62 (099) 126-2117,Gg. Rungkut Industri No. 243,3174
+522,Jabal,Budiman,+62 (743) 772-7856,Jl. H.J Maemunah No. 905,5171
+523,Yuliana,Kusumo,(0121) 926 7858,Jl. Joyoboyo No. 76,5171
+524,Daliono,Yuliarti,+62 (64) 345 3914,Gang Sukabumi No. 159,3471
+525,Lala,Sihotang,+62 (870) 129-8445,Jalan Antapani Lama No. 65,5171
+526,Chelsea,Megantara,+62 (0765) 758 7424,Jalan K.H. Wahid Hasyim No. 7,5171
+527,Candra,Mulyani,+62 (0668) 132 0596,Jl. Sukajadi No. 44,6472
+528,Hasna,Usada,+62 (021) 776 5446,Gg. Antapani Lama No. 1,3171
+529,Ani,Lailasari,0842877351,Gang Kebonjati No. 3,6471
+530,Adinata,Usada,+62 (0095) 150 9192,Jl. Raya Ujungberung No. 43,3172
+531,Mitra,Melani,089 772 8813,Jl. Yos Sudarso No. 7,3174
+532,Ina,Utama,+62 (26) 768 2407,Jl. Ciwastra No. 556,1371
+533,Viman,Pudjiastuti,+62 (45) 377-0986,Gang Tebet Barat Dalam No. 605,3173
+534,Hana,Sihotang,0848127318,Jl. H.J Maemunah No. 56,3173
+535,Adhiarja,Susanti,+62-024-766-7358,Gg. Rajawali Timur No. 3,3171
+536,Dacin,Prasasta,+62-059-219-2905,Gg. Veteran No. 085,3573
+537,Baktiadi,Dabukke,+62-0055-993-3068,Jalan Soekarno Hatta No. 7,5171
+538,Embuh,Permadi,083 198 9423,Jl. Pasirkoja No. 4,3175
+539,Daru,Mangunsong,+62 (057) 748-0689,Gang Rajawali Barat No. 3,6472
+540,Galur,Purwanti,+62 (76) 525-4856,Gang Jakarta No. 4,7371
+541,Shania,Handayani,+62-0159-243-0522,Gang Ronggowarsito No. 0,3573
+542,Koko,Kusumo,+62-225-752-8648,Jl. Pasteur No. 492,6471
+543,Nasim,Mahendra,(005) 966 8547,Jl. Stasiun Wonokromo No. 4,6471
+544,Harja,Rahmawati,+62-061-103-8932,Gg. Gardujati No. 2,3573
+545,Sidiq,Pratama,+62 (001) 031-8379,Jl. Sukabumi No. 1,5171
+546,Warsa,Jailani,(0420) 307 1586,Gg. HOS. Cokroaminoto No. 14,3171
+547,Daniswara,Napitupulu,088 612 1481,Jalan Joyoboyo No. 4,6472
+548,Irfan,Marpaung,+62 (007) 551-5775,Jl. Ir. H. Djuanda No. 9,3578
+549,Hadi,Lazuardi,+62 (025) 204 1012,Jalan Ronggowarsito No. 456,1375
+550,Rafid,Budiman,(0887) 018-6596,Gg. Pasteur No. 08,3573
+551,Dalima,Melani,(096) 755-9061,Jl. Jamika No. 54,1375
+552,Bakianto,Sihombing,(089) 407-8391,Gang Otto Iskandardinata No. 1,3273
+553,Adika,Setiawan,+62 (052) 162 2357,Jl. Ronggowarsito No. 7,1371
+554,Diah,Handayani,+62-11-159-6819,Gg. Abdul Muis No. 848,3175
+555,Kasusra,Utama,+62 (064) 323 3994,Jl. Tubagus Ismail No. 7,6472
+556,Heru,Wastuti,+62-295-724-0069,Gg. Cihampelas No. 637,3273
+557,Panji,Usada,+62 (098) 413 3427,Jl. Stasiun Wonokromo No. 81,1371
+558,Cakrabuana,Mangunsong,081 781 3965,Gg. Dipatiukur No. 349,3573
+559,Rendy,Sihotang,(0604) 538-2686,Jl. Raya Setiabudhi No. 6,3173
+560,Gantar,Zulkarnain,(093) 250 3598,Jalan Pasirkoja No. 81,1371
+561,Dagel,Sihombing,+62 (038) 746-3053,Gang Dipenogoro No. 62,3273
+562,Tugiman,Saragih,+62-0597-369-3311,Jl. Stasiun Wonokromo No. 1,3273
+563,Yulia,Puspita,086 420 8556,Gg. Kutai No. 5,3172
+564,Vero,Suryono,0865881835,Gang K.H. Wahid Hasyim No. 9,3174
+565,Sarah,Hasanah,+62 (51) 518 3125,Gg. Pasir Koja No. 678,5171
+566,Edi,Pratama,+62-05-354-1975,Jl. Laswi No. 81,3578
+567,Laswi,Iswahyudi,+62 (0920) 417-7569,Gg. Monginsidi No. 4,6472
+568,Lasmono,Pranowo,0854930135,Jl. Bangka Raya No. 58,3273
+569,Labuh,Januar,+62-048-262-4559,Gang Raya Ujungberung No. 179,3175
+570,Sabar,Najmudin,(038) 060 0651,Gang Pasirkoja No. 9,1371
+571,Gasti,Laksmiwati,+62 (053) 726 4231,Jl. Cihampelas No. 886,5171
+572,Maman,Usada,+62 (06) 630 2929,Jalan Jakarta No. 28,3175
+573,Gangsar,Farida,+62-47-977-5804,Gg. Kapten Muslihat No. 97,1375
+574,Kadir,Gunarto,+62 (059) 040 9594,Jl. Dipatiukur No. 6,3171
+575,Elvina,Riyanti,+62 (070) 028 6647,Jl. Bangka Raya No. 42,7371
+576,Eli,Tamba,+62-71-130-3908,Jalan Gegerkalong Hilir No. 69,3173
+577,Aisyah,Rahimah,(013) 831-1152,Jalan Kebonjati No. 12,3173
+578,Galak,Nuraini,+62-036-793-0445,Jalan Indragiri No. 28,5171
+579,Dirja,Budiyanto,081 678 1955,Jl. Kiaracondong No. 2,3171
+580,Raden,Najmudin,+62 (003) 864-7735,Jalan Dipenogoro No. 085,3175
+581,Bagas,Permadi,(0421) 385 1215,Jalan Cikapayang No. 66,1371
+582,Balapati,Ardianto,085 795 4919,Gang Gegerkalong Hilir No. 02,3173
+583,Kairav,Kusumo,+62 (070) 726 1426,Gg. Pasirkoja No. 0,6471
+584,Reksa,Januar,+62 (0671) 325 3270,Gg. Sukajadi No. 93,3171
+585,Bakti,Safitri,+62 (837) 120-3898,Gg. R.E Martadinata No. 6,3173
+586,Putri,Winarno,(0451) 662 8387,Gang Rungkut Industri No. 40,6472
+587,Adinata,Sitompul,+62 (662) 916 0490,Jl. Gegerkalong Hilir No. 39,3573
+588,Kania,Permata,+62-283-517-9044,Gg. Cikutra Barat No. 622,3175
+589,Syahrini,Safitri,(0791) 750 3303,Jl. Erlangga No. 67,6472
+590,Lintang,Saragih,(0917) 483-4707,Gang Sentot Alibasa No. 504,7371
+591,Azalea,Purnawati,+62 (0198) 311-8873,Jalan K.H. Wahid Hasyim No. 5,3175
+592,Okta,Wijayanti,(007) 925 8761,Jalan Siliwangi No. 3,3273
+593,Elma,Haryanto,+62 (096) 113-9832,Gang Sukabumi No. 7,1371
+594,Cindy,Suryatmi,(0961) 103-3354,Gg. Lembong No. 0,6471
+595,Irma,Saputra,0823401951,Jalan W.R. Supratman No. 814,3471
+596,Hafshah,Maryadi,+62 (082) 030 5947,Jl. Rawamangun No. 705,6471
+597,Yosef,Januar,+62 (0296) 792-4920,Jalan HOS. Cokroaminoto No. 1,3273
+598,Jono,Prabowo,(018) 484-0179,Gg. BKR No. 9,3578
+599,Cayadi,Suryono,0879038345,Jl. Kebonjati No. 634,7371
+600,Cahyo,Samosir,+62 (745) 327-3606,Gg. Cikutra Timur No. 272,3273
+601,Galiono,Halimah,0869758221,Gg. Kapten Muslihat No. 8,6471
+602,Bakti,Waskita,(021) 854-6285,Gg. Raya Ujungberung No. 8,1375
+603,Malika,Suartini,+62 (38) 908-4869,Gang Pasir Koja No. 3,3578
+604,Luwes,Rahayu,(047) 788-4045,Jl. M.H Thamrin No. 8,3573
+605,Utama,Lailasari,+62-664-295-1056,Gg. PHH. Mustofa No. 04,3273
+606,Jarwadi,Pradana,+62 (739) 029 7838,Gang Bangka Raya No. 99,3471
+607,Legawa,Utami,+62 (116) 610 1603,Jl. Ciumbuleuit No. 59,1375
+608,Cahyadi,Kuswoyo,+62 (56) 238 5853,Gg. Joyoboyo No. 638,1371
+609,Emas,Pradipta,(0556) 116 0533,Jalan M.T Haryono No. 904,6472
+610,Mariadi,Natsir,+62 (007) 263 7745,Jl. Antapani Lama No. 78,3573
+611,Dirja,Mangunsong,(031) 630 0617,Jalan Otto Iskandardinata No. 4,3173
+612,Nyana,Rahayu,+62 (050) 905-0283,Gg. Ahmad Yani No. 18,3172
+613,Paramita,Prasetyo,+62 (20) 812 9155,Jl. Veteran No. 617,3172
+614,Anom,Susanti,(0436) 124-4932,Gang PHH. Mustofa No. 955,5171
+615,Yosef,Ardianto,+62 (66) 788-1055,Gang Erlangga No. 911,6472
+616,Jasmani,Suryatmi,+62 (078) 351-1906,Gg. Waringin No. 758,6471
+617,Galiono,Rajasa,084 311 4754,Jl. Raya Setiabudhi No. 04,3471
+618,Prasetya,Anggriawan,+62 (42) 085 1497,Jl. Cihampelas No. 523,6472
+619,Tiara,Habibi,080 012 3652,Gg. Ir. H. Djuanda No. 3,6472
+620,Mursita,Andriani,+62 (064) 693-3849,Gang R.E Martadinata No. 33,6472
+621,Yunita,Pranowo,+62 (018) 439 9487,Gang Kutai No. 88,3273
+622,Teddy,Jailani,082 380 2391,Jalan Veteran No. 54,3172
+623,Ulya,Yuliarti,+62-48-848-9435,Gg. Ciwastra No. 6,3175
+624,Luwes,Rajata,+62-061-072-0600,Gg. Raya Setiabudhi No. 838,3171
+625,Samiah,Saptono,+62-34-235-5731,Gg. Moch. Ramdan No. 822,6471
+626,Margana,Sihombing,(0388) 212-3155,Gg. Sadang Serang No. 719,3471
+627,Artawan,Zulaika,+62-082-273-9913,Gang Laswi No. 67,3174
+628,Wawan,Permadi,085 885 1406,Gang Otto Iskandardinata No. 764,5171
+629,Hesti,Pudjiastuti,+62-53-108-2895,Jalan Kendalsari No. 238,3578
+630,Lanang,Agustina,+62 (44) 562 9112,Gang Laswi No. 0,3578
+631,Clara,Megantara,+62 (048) 492 6704,Gang Gedebage Selatan No. 312,5171
+632,Cayadi,Maryati,+62 (620) 206-8468,Jl. Gardujati No. 87,6472
+633,Cici,Pudjiastuti,+62 (558) 425-5633,Gang Antapani Lama No. 4,5171
+634,Mahesa,Prastuti,+62 (0840) 177 6478,Gg. Laswi No. 408,3578
+635,Murti,Mayasari,+62 (253) 037 0581,Jl. Rungkut Industri No. 143,3171
+636,Argono,Waskita,+62 (0821) 695 7729,Jl. Bangka Raya No. 1,1371
+637,Emil,Megantara,+62 (073) 200 2528,Gang BKR No. 714,6472
+638,Paiman,Haryanti,+62-79-977-1440,Jalan Erlangga No. 611,3273
+639,Umi,Kusumo,+62-62-639-0307,Jl. Surapati No. 35,5171
+640,Mustofa,Dabukke,(025) 755-0928,Jl. Kendalsari No. 586,3175
+641,Garan,Lazuardi,(097) 621 1786,Jl. Rajiman No. 5,6471
+642,Cinta,Prasetya,+62 (185) 184 4786,Jalan H.J Maemunah No. 307,3573
+643,Lasmono,Sitompul,+62 (0252) 591-3244,Jalan Waringin No. 90,3175
+644,Reksa,Pratama,+62-71-951-0452,Jl. Cihampelas No. 96,6471
+645,Mahdi,Nashiruddin,+62 (080) 187-0184,Gang Cihampelas No. 665,3471
+646,Prayitna,Pradana,+62 (660) 521-0858,Gang Laswi No. 78,3171
+647,Sabar,Lazuardi,0820316241,Gg. Rajawali Barat No. 1,3172
+648,Mariadi,Puspasari,+62 (69) 140 8584,Jl. Rungkut Industri No. 7,3171
+649,Hasta,Purnawati,+62 (293) 311-8841,Jalan Cikutra Timur No. 13,3172
+650,Cahyono,Uyainah,(092) 878 5723,Jl. Pasteur No. 0,6472
+651,Dipa,Wijaya,(0590) 744 5456,Jl. Ahmad Yani No. 481,1371
+652,Upik,Melani,(0099) 971-3006,Jalan Kutai No. 06,3172
+653,Edward,Waluyo,+62-0405-944-1425,Gang Stasiun Wonokromo No. 2,7371
+654,Estiawan,Budiman,+62-0488-757-9567,Gang Jakarta No. 59,1371
+655,Darsirah,Samosir,(0046) 559 9643,Jalan Pasteur No. 9,6472
+656,Teguh,Mulyani,084 376 9596,Jl. Monginsidi No. 6,1375
+657,Harsana,Prastuti,(0437) 848 4332,Gg. Cihampelas No. 59,5171
+658,Fathonah,Anggriawan,(021) 877 2834,Gang Gedebage Selatan No. 26,1371
+659,Jail,Pradipta,+62 (61) 574-6044,Gg. Abdul Muis No. 821,3171
+660,Mahesa,Hutasoit,(0429) 358-9114,Gang Cikutra Timur No. 573,3175
+661,Ghaliyati,Ramadan,+62 (002) 773 9387,Gg. Pasteur No. 1,1375
+662,Pangestu,Rajata,+62 (057) 107-1492,Jl. Sadang Serang No. 367,3578
+663,Dalima,Nashiruddin,+62 (0050) 953 9189,Jl. W.R. Supratman No. 8,6471
+664,Wadi,Hastuti,(0582) 131 5273,Gg. Ciumbuleuit No. 1,6471
+665,Jati,Salahudin,(0287) 032-1030,Gang Otto Iskandardinata No. 4,6472
+666,Harjasa,Rajasa,+62-0751-167-4117,Jl. Yos Sudarso No. 78,7371
+667,Hendra,Siregar,(026) 910 3501,Jl. Rawamangun No. 1,3175
+668,Maman,Samosir,(0233) 815-3334,Jalan Setiabudhi No. 2,5171
+669,Kemba,Firmansyah,+62 (137) 755-3723,Jalan Kapten Muslihat No. 9,5171
+670,Daliono,Wijaya,(004) 930 8386,Jalan Pasirkoja No. 3,1371
+671,Caturangga,Yolanda,0869503715,Gg. K.H. Wahid Hasyim No. 444,3471
+672,Ibun,Sirait,+62 (0883) 336 7739,Gg. Raya Setiabudhi No. 382,5171
+673,Karna,Pradana,+62 (0710) 539-3810,Gang Ahmad Yani No. 4,3174
+674,Radika,Haryanti,+62-0933-137-9655,Jl. Pasteur No. 965,7371
+675,Hasim,Gunawan,+62 (013) 126-7747,Gang Abdul Muis No. 2,3578
+676,Mahdi,Maryati,+62 (0390) 548-6360,Jalan Jend. A. Yani No. 1,1371
+677,Titi,Halim,+62 (018) 750-2566,Jalan Setiabudhi No. 99,3173
+678,Carla,Irawan,+62-16-498-3267,Gg. PHH. Mustofa No. 1,3273
+679,Kayun,Hassanah,(091) 397 7536,Jalan Kendalsari No. 5,3175
+680,Jaswadi,Kusumo,+62 (469) 869 3549,Jl. Cikutra Barat No. 10,3174
+681,Eka,Tarihoran,+62 (0420) 990 9407,Gg. Wonoayu No. 573,1371
+682,Aris,Susanti,0854619651,Gang Kapten Muslihat No. 667,5171
+683,Salman,Wijaya,+62-003-921-7070,Jalan Jayawijaya No. 998,3175
+684,Intan,Aryani,+62 (28) 722-4991,Gg. Gegerkalong Hilir No. 032,3175
+685,Lega,Winarsih,0800751530,Jalan Ahmad Dahlan No. 04,3174
+686,Hardana,Mandala,+62 (580) 905 3731,Gang Gedebage Selatan No. 843,3172
+687,Laila,Budiyanto,0872297381,Jalan S. Parman No. 946,6472
+688,Gasti,Handayani,+62 (062) 066-7003,Gg. W.R. Supratman No. 7,3578
+689,Ina,Waluyo,+62 (0911) 455 7545,Gang Otto Iskandardinata No. 8,5171
+690,Amelia,Sihotang,(0901) 133 4620,Jalan Abdul Muis No. 90,3174
+691,Cawisono,Pratiwi,+62-66-743-3297,Jalan Cikapayang No. 00,7371
+692,Padmi,Mandala,+62-0031-701-1526,Gang Kendalsari No. 15,6471
+693,Jagapati,Fujiati,+62 (0967) 802 0408,Gang Tebet Barat Dalam No. 10,1371
+694,Sabri,Latupono,+62 (0155) 580 7045,Jalan Pacuan Kuda No. 70,5171
+695,Wasis,Namaga,0896189974,Jl. Soekarno Hatta No. 15,3273
+696,Luwes,Mulyani,+62 (005) 928-0088,Gang Kiaracondong No. 52,3273
+697,Michelle,Rahmawati,+62-178-586-1226,Jl. Astana Anyar No. 5,5171
+698,Kenari,Suwarno,(0002) 487 9746,Gg. Ahmad Dahlan No. 9,1375
+699,Puspa,Tampubolon,(0618) 307 3291,Gang Ir. H. Djuanda No. 593,7371
+700,Aswani,Waluyo,+62 (68) 862-3651,Gg. Cempaka No. 58,1375

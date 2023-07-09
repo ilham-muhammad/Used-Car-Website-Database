@@ -1,4 +1,4 @@
--- Final Project RDB & SQL - SE/DE Batch 2 Pacmann
+-- Project RDB & SQL - SE/DE Batch 2 Pacmann
 -- Task : Creating Table Structures
 -- Author : Muhammad Ilham
 
@@ -8,9 +8,10 @@ CREATE TABLE City(
 	city_id int UNIQUE PRIMARY KEY NOT NUll,
 	city varchar(50) NOT NULL,
 	province varchar(50),
+	postal_code int,
 	latitude float(24),
 	longitude float(24)
-)
+);
 
 -- Creating table : Cars
 CREATE TABLE Cars(
@@ -19,14 +20,14 @@ CREATE TABLE Cars(
 	car_model varchar(50) NOT NULL,
 	car_type varchar(50) NOT NULL,
 	trans_type varchar(50) NOT NULL
-)
+);
 
 -- Creating table : Users
 CREATE TABLE Users(
 	user_id int UNIQUE PRIMARY KEY NOT NUll,
 	first_name varchar(50) NOT NULL,
 	last_name varchar(50) NOT NULL,
-	phone int NOT NULL,
+	phone varchar(20) NOT NULL,
 	address text NOT NULL,
 	city_id int NOT NULL,
 	-- Add constrain : foreign key city_id
@@ -34,7 +35,7 @@ CREATE TABLE Users(
 		FOREIGN KEY(city_id)
 		REFERENCES City(city_id)
 		ON DELETE RESTRICT
-)
+);
 
 -- Creating table : Advertisements
 CREATE TABLE Advertisements(
@@ -57,11 +58,11 @@ CREATE TABLE Advertisements(
 		FOREIGN KEY(car_id)
 		REFERENCES Cars(car_id)
 		ON DELETE RESTRICT
-)
+);
 
 -- Creating table : Bids
 CREATE TABLE Bids(
-	bid_id int UNIQUE NOT NULL,
+	bid_id int UNIQUE PRIMARY KEY NOT NULL,
 	user_id int NOT NULL,
 	ads_id int NOT NULL,
 	bid_date date,
@@ -76,5 +77,5 @@ CREATE TABLE Bids(
 		FOREIGN KEY(ads_id)
 		REFERENCES Advertisements(ads_id)
 		ON DELETE RESTRICT
-)
+);
 
