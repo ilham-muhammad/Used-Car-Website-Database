@@ -33,7 +33,7 @@ ON ads.car_id = cars.car_id
 WHERE 
 	first_name LIKE 'Latif' AND
 	last_name LIKE 'Mansur'
-ORDER BY posting_date DESC
+ORDER BY posting_date DESC;
 
 
 -- 4. Finding cheapest car based on keyword
@@ -48,18 +48,18 @@ FROM advertisements AS ads
 LEFT JOIN cars
 ON ads.car_id = cars.car_id
 WHERE car_model LIKE 'Mustang'
-ORDER BY price
+ORDER BY price;
 
 -- 5. Finding nearby car based on buyer & seller location
 CREATE TEMPORARY TABLE user_location AS
-SELECT
-	user_id,
-	users.city_id,
-	latitude,
-	longitude
-FROM users
-LEFT JOIN city
-ON users.city_id = city.city_id;
+	SELECT
+		user_id,
+		users.city_id,
+		latitude,
+		longitude
+	FROM users
+	LEFT JOIN city
+	ON users.city_id = city.city_id;
 
 
 WITH combine_user_loc as (
@@ -99,4 +99,4 @@ FROM combine_user_loc as combine
 LEFT JOIN user_location
 ON combine.buyer_id = user_location.user_id
 WHERE city_id = 3174
-ORDER BY SQRT(POW((seller_lat - latitude), 2) + POW((seller_long - longitude), 2)) ASC
+ORDER BY SQRT(POW((seller_lat - latitude), 2) + POW((seller_long - longitude), 2)) ASC;
