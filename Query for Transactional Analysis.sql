@@ -1,5 +1,5 @@
 -- Project RDB & SQL - SE/DE Batch 2 Pacmann
--- Task : Transactional Querry
+-- Task : Transactional Query
 -- Author : Muhammad Ilham
 
 -- 1. Find car that were built beyond 2015
