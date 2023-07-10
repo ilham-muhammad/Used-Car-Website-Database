@@ -1,5 +1,5 @@
 -- Project RDB & SQL - SE/DE Batch 2 Pacmann
--- Task : Analytical Querry
+-- Task : Analytical Query
 -- Author : Muhammad Ilham
 
 -- 1. Car popularity based on bid count
