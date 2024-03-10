@@ -1,4 +1,4 @@
-# used-car-website-database
+# Used Car Website Database
 Relational database &amp; SQL project for used car marketplace website
 
 # About
